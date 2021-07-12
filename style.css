@@ -49,7 +49,11 @@ section.main{
     border: 0;
 }
 
-.mockup{display: block; width: 100%; color: var(--a); text-align: center;}
+.mockup{display: block; width: 100%; color: var(--a); text-align: center; padding-top: 110px;}
+
+.mockup h1{
+    font-size: 40px;
+}
 
 
 
