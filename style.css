@@ -25,14 +25,24 @@ section.main{
 
 .logo-menu{width: 50%;}
 
-.itens-menu{width: 50%;}
+.itens-menu{width: 50%; text-align: right;}
 
 .itens-menu a{
     color: var(--a);
     font-weight: bold;
     text-decoration: none;
-    margin: 0 10px;
+    margin:  0 10px;
     display: inline-block;
+}
+
+.itens-menu a:hover{
+    border-bottom: 2px solid var(--line);
+}
+
+.itens-menu a.contact-btn{
+    background-color: #0F3FD3;
+    padding: 10px 12px;
+    border-radius: 10px;
 }
 
 :root{
@@ -41,4 +51,5 @@ section.main{
 
     /* colors */ 
     --a: #fff;
+    --line: #FFDD33;
 }
