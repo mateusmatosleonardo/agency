@@ -56,6 +56,11 @@ section.main{
     font-weight: normal;
 }
 
+.mockup img{
+    width: 750px;
+}
+
+.mockup img{max-width: 100%;}
 
 
 :root{
