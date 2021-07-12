@@ -49,6 +49,10 @@ section.main{
     border: 0;
 }
 
+.mockup{display: block; width: 100%; color: var(--a);}
+
+
+
 :root{
     --font-prim: 'Raleway', sans-serif;
 
