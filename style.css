@@ -45,6 +45,10 @@ section.main{
     border-radius: 10px;
 }
 
+.itens-menu a.contact-btn:hover{
+    border: 0;
+}
+
 :root{
     --font-prim: 'Raleway', sans-serif;
 
