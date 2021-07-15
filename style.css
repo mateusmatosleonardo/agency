@@ -83,6 +83,31 @@ section.porque-nos > .center > p{
     padding-top: 10px;
 }
 
+.diferenciais{
+    display: flex;
+    margin-top: 80px;
+}
+
+.box-diferenciais{
+    box-shadow: 0px 20px 40px #1011421c;
+    width: 31%;
+    margin-right: 2%;
+    font-family: var(--font-prim);
+    padding: 10px 20px;
+}
+
+.box-diferenciais h3{
+    font-size: 21px;
+    margin: 20px 0;
+    color: black;
+}
+
+.box-diferenciais p{
+    font-size: 13px;
+    color: #7E92AC;
+    opacity: 1;
+}
+
 :root{
     --font-prim: 'Raleway', sans-serif;
 
