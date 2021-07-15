@@ -62,12 +62,33 @@ section.main{
 
 .mockup img{max-width: 100%;}
 
+section.porque-nos{
+    padding: 40px 0;
+    background-color: var(--backpq);
+}
+
+/* Pegando todas as center's dentro de porque-nos */
+section.porque-nos > .center > h2{
+    font-size: 42px;
+    font-family: var(--font-prim);
+    text-align: center;
+    width: 100%;
+}
+
+section.porque-nos > .center > p{
+    font-size: 14px;
+    color: #ccc;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+}
 
 :root{
     --font-prim: 'Raleway', sans-serif;
 
 
     /* colors */ 
+    --backpq: #FBFCFE;
     --a: #fff;
     --line: #FFDD33;
 }
