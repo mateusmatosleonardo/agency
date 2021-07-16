@@ -110,9 +110,33 @@ section.porque-nos > .center > p{
     margin-bottom: 15px;
 }
 
-:root{
-    --font-prim: 'Raleway', sans-serif;
+/* reponsive */
 
+    /* === MOBILE === */
+@media screen and (max-width: 768px){
+    .box-diferenciais{
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .diferenciais{
+        flex-wrap: wrap;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+    /* === variables css === */
+:root{
+    /* fonts */
+    --font-prim: 'Raleway', sans-serif;
 
     /* colors */ 
     --backpq: #FBFCFE;
