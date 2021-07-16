@@ -124,6 +124,7 @@ section.cta{
 section.cta h2,
 section.cta h4{
     font-weight: normal;
+    margin: 10px 0;
 }
 
 /* reponsive */
