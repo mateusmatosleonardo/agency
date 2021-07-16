@@ -85,7 +85,7 @@ section.porque-nos > .center > p{
 
 .diferenciais{
     display: flex;
-    margin-top: 80px;
+    margin-top: 50px;
 }
 
 .box-diferenciais{
@@ -94,17 +94,18 @@ section.porque-nos > .center > p{
     margin-right: 2%;
     font-family: var(--font-prim);
     padding: 10px 20px;
+    border-radius: 10px;
 }
 
 .box-diferenciais h3{
     font-size: 21px;
-    margin: 20px 0;
+    margin-bottom: 15px;
     color: black;
 }
 
 .box-diferenciais p{
     font-size: 13px;
-    color: #627c9e;
+    color: #7E92AC;
     opacity: 1;
 }
 
