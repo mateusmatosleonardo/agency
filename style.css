@@ -112,10 +112,18 @@ section.porque-nos > .center > p{
 
 section.cta{
     background-image: url(/images/BANNER\ IMG.svg);
-    padding: 20px 0;
+    padding: 20px 10px;
     background-size: cover;
     min-height: 200px;
     background-position: center;
+    text-align: center;
+    color: var(--a);
+    font-family: var(--font-prim);
+}
+
+section.cta h2,
+section.cta h4{
+    font-weight: normal;
 }
 
 /* reponsive */
