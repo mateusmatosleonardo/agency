@@ -110,6 +110,14 @@ section.porque-nos > .center > p{
     margin-bottom: 15px;
 }
 
+section.cta{
+    background-image: url(/images/BANNER\ IMG.svg);
+    padding: 20px 0;
+    background-size: cover;
+    min-height: 200px;
+    background-position: center;
+}
+
 /* reponsive */
 
     /* === MOBILE === */
