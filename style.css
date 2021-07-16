@@ -127,6 +127,10 @@ section.cta h4{
     margin: 10px 0;
 }
 
+section.cta h2{
+    font-size: 32px;
+}
+
 /* reponsive */
 
     /* === MOBILE === */
