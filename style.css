@@ -186,6 +186,11 @@ section.depoimentos{
     background-color: #FBFCFE;
 }
 
+section.depoimentos > h1{
+    text-align: center;
+    font-size: 45px;
+}
+
 /* reponsive */
 
     /* === MOBILE === */
