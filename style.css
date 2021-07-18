@@ -192,6 +192,16 @@ section.depoimentos > h1{
     font-size: 45px;
 }
 
+.container-slider{
+    overflow: hidden;
+}
+
+.container-slider-single{
+    float: left;
+    background-color: red;
+    padding: 10px;
+}
+
 /* reponsive */
 
     /* === MOBILE === */
