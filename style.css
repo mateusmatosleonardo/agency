@@ -202,6 +202,10 @@ section.depoimentos > h1{
     padding: 10px;
 }
 
+.slick-slide{
+    margin-left: 27px;
+}
+
 /* reponsive */
 
     /* === MOBILE === */
