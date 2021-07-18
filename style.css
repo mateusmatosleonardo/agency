@@ -143,6 +143,32 @@ section.cta a{
     margin-top: 20px;
 }
 
+.lista-beneficios{
+    width: 50%;
+}
+
+.lista-beneficios p{
+    vertical-align: middle;
+    font-size: 14px;
+}
+
+.lista-beneficios span{
+    display: inline-block;
+    width: calc(100% - 70px);
+}
+
+.lista-beneficios img{
+    display: inline-block;
+    width: 70px;
+    vertical-align: middle;
+}
+
+.img-beneficios{
+    width: 50%;
+}
+
+.img-beneficios img{max-width: 100%;}
+
 /* reponsive */
 
     /* === MOBILE === */
