@@ -182,6 +182,10 @@ section.beneficios{
 
 .img-beneficios img{max-width: 100%;}
 
+section.depoimentos{
+    background-color: #FBFCFE;
+}
+
 /* reponsive */
 
     /* === MOBILE === */
