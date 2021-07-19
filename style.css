@@ -259,6 +259,40 @@ li.slick-active button{
 
 .slick-slide:focus { outline: none; }
 
+.footer{
+    position: relative;
+    min-height: 200px;
+    height: 200px;
+    width: 100%;
+    border-top: 3px solid #7E92AC;
+}
+
+.footer p{
+    text-align: center;  
+    padding: 15px 0;
+    font-weight: bold;
+    color: #7E92AC;
+    font-family: var(--font-prim);
+}
+
+.footer h3{
+    padding: 15px 0;
+    text-align: center;
+    color: #7E92AC;
+    font-family: var(--font-prim);
+}
+
+.img img{
+    width: 110px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.img{
+    padding: 0 620px;
+    position: contain;
+}
+
 /* reponsive */
 
     /* === MOBILE === */
